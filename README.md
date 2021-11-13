@@ -1,2 +1,3 @@
 # hello-world
-learning computer things
+description: creating a repository
+editing a repository
